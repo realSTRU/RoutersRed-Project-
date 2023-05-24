@@ -1,0 +1,136 @@
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\galve\OneDrive\TAREAS\ESTRUCTURA DE DATOS\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\galve\Downloads\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouter2 (1)\ProyectoRouter2\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CopyComplete
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\mario-bros game over.wav
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\street-fighter.wav
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\videojuegos-.wav
+C:\Users\Personal\Desktop\ProyectoRouterDefinitivo\ProyectoRouterDefinitivo\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\009 Sound System Trininty.wav
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\videojuegos-.wav
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CopyComplete
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\Rumbling.wav
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.exe
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\Rumbling.wav
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\videojuegos-.wav
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.deps.json
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.json
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.csproj.CopyComplete
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\refint\ProyectoRouter.dll
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.pdb
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ProyectoRouter.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Escritorio\Important folders\ProyectoRouterRemasterizado\ProyectoRouterRemastered\ProyectoRouter\ProyectoRouter\obj\Debug\net5.0\ref\ProyectoRouter.dll
